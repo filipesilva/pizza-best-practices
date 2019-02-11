@@ -30,6 +30,14 @@ variable mentioned while keeping the rest unaltered.
 
 **[Back to top](#table-of-contents)**
 
+### Folding
+
+  - Fold the dough 4-6 times while it is rising.
+
+  *Why?*: folding helps build dough elasticity/strength.
+
+**[Back to top](#table-of-contents)**
+
 
 ## Shaping
 
