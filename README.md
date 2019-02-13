@@ -36,6 +36,12 @@ variable mentioned while keeping the rest unaltered.
 
   *Why?*: folding helps build dough elasticity/strength.
 
+### Storing in the fridge
+
+  - Cover dough balls with cellophane wrap when storing them in the fridge.
+
+  *Why?*: dough exposed to dry air in the fridge will unevenly lose moisture, and thus elasticity.
+
 **[Back to top](#table-of-contents)**
 
 
