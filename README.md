@@ -47,6 +47,16 @@ variable mentioned while keeping the rest unaltered.
 
 ## Shaping
 
+### Resting
+
+  - Stretch and fold the dough into a ball and leave it to rest before shaping.
+
+  *Why?*: stored dough builds up more moisture on the bottom than on the top, making it more sticky.
+
+  *Why?*: dough structure becomes less homogenous while fermenting, making it easier to tear when shaping.
+
+**[Back to top](#table-of-contents)**
+
 ### Dough Temperature
 
   - Shape dough at room temperature.
