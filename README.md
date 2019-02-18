@@ -93,6 +93,14 @@ variable mentioned while keeping the rest unaltered.
 
   *Why?*: cold dough chars base more easily.
 
+### Dusting flour
+
+  - Use the least amount of dusting flour possible.
+
+  *Why?*: Carbonized flour beneath the pizza gives it a bad taste.
+
+  *Why?*: Reducing heat transfer to pizza base reduces possible oven spring.
+
 **[Back to top](#table-of-contents)**
 
 <!-- 
