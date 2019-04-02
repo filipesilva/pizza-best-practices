@@ -80,6 +80,8 @@ variable mentioned while keeping the rest unaltered.
 
   *Why?*: heavy toppings will weight down the tip of the slice, making it droop down.
 
+  *Why?*: heavy toppings can prevent enough the dough from cooking through.
+
 **[Back to top](#table-of-contents)**
 
 
